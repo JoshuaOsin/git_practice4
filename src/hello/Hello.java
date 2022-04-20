@@ -6,5 +6,7 @@ public class Hello {
 
         //step 1
         //step 2
+
+        System.out.println("Hello word");
     }
 }
