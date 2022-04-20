@@ -8,5 +8,7 @@ public class Hello {
         //step 2
 
         System.out.println("Hello word");
+
+        System.out.println("Remote");
     }
 }
